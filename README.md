@@ -57,5 +57,5 @@ O modelo inclui as seguintes entidades principais:
 
 Abaixo está uma imagem do modelo relacional:  
 
-![Modelo Relacional de Oficina Mecânica](path-to-your-image.png)  
+![Modelo Relacional de Oficina Mecânica]([path-to-your-image.png](https://github.com/NildaJuliana/OficinaMecanica-Database-Model/blob/main/Modelo%20-%20Oficina%20Mec%C3%A2nica.png)  
 
